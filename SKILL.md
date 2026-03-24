@@ -402,6 +402,7 @@ Python matplotlib      ┌──────────────────
 | presentation-design-guide.md | 答辩级视觉设计规范（线框→高保真流程） |
 | output-standard.md | 成稿输出规范（章节命名/图表存放/检查清单） |
 | review-rewrite-protocol.md | Review-Rewrite协议（review→修订流程） |
+| rewrite-execution-protocol.md | 改写执行协议（问题类型→改写动作映射） |
 | table-usage-rules.md | 表格减少滥用规则（v2.3新增） |
 | delivery-package-spec.md | 每章完整交付包规范（v2.3新增） |
 | citation-and-naming-guide.md | 图号/文件名/正文引用/数据来源规范（v2.3新增） |
