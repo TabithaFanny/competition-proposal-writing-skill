@@ -1,7 +1,7 @@
 # Competition Proposal Writing Skill - 比赛计划书写作助手
 
 > 基于 AI 的大学生创新创业比赛计划书写作助手
-> 版本：v2.2.0 | 更新日期：2026-03-23
+> 版本：v2.3.0 | 更新日期：2026-03-24
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -139,21 +139,24 @@ competition-proposal-writing/
 │   ├── policy/
 │   ├── competitors/
 │   └── cases/
-└── references/              # 14个规范文件
-    ├── output-standard.md      # 成稿输出规范（两阶段/图位占位符）
+└── references/              # 17个规范文件
+    ├── output-standard.md         # 成稿输出规范（两阶段/图位占位符）
     ├── presentation-design-guide.md  # 答辩级视觉设计
     ├── visualquality-guide.md     # 可视化质量标准
-    ├── html-prompt.md         # HTML单页生成规范
-    ├── chart-style.md         # 可视化三路分流
-    ├── tone-guide.md          # 文风统一规则
-    ├── editor-in-chief.md     # 主编总控
-    ├── long-form-writing.md   # 成稿级长文规范
-    ├── chapter-depth-guide.md # 章节维度清单+字数要求
-    ├── chapter-prompts.md     # 单章深写五步法
-    ├── framework-generation.md # 12章框架模板
-    ├── project-master.md      # 主档字段定义
-    ├── unification.md         # 统稿校对规范
-    └── role-*.md             # 5个角色文件
+    ├── html-prompt.md             # HTML单页生成规范
+    ├── chart-style.md             # 可视化三路分流
+    ├── tone-guide.md              # 文风统一规则
+    ├── editor-in-chief.md         # 主编总控
+    ├── long-form-writing.md       # 成稿级长文规范
+    ├── chapter-depth-guide.md     # 章节维度清单+字数要求
+    ├── chapter-prompts.md         # 单章深写五步法
+    ├── framework-generation.md    # 12章框架模板
+    ├── project-master.md          # 主档字段定义
+    ├── unification.md             # 统稿校对规范
+    ├── table-usage-rules.md       # 表格减少滥用规则（v2.3新增）
+    ├── delivery-package-spec.md   # 每章完整交付包规范（v2.3新增）
+    ├── citation-and-naming-guide.md  # 图号/文件名/正文引用规范（v2.3新增）
+    └── role-*.md                 # 5个角色文件
 ```
 
 ---
@@ -170,6 +173,9 @@ competition-proposal-writing/
 | chart-style.md | 可视化三路分流规则 |
 | tone-guide.md | 文风统一规则 |
 | editor-in-chief.md | 主编总控/分配/统稿 |
+| table-usage-rules.md | 表格减少滥用规则（v2.3新增） |
+| delivery-package-spec.md | 每章完整交付包规范（v2.3新增） |
+| citation-and-naming-guide.md | 图号/文件名/正文引用/数据来源规范（v2.3新增） |
 
 ### 章节框架
 | 文件 | 职责 |
